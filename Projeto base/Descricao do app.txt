@@ -1,0 +1,11 @@
+#Desenvolvimento base do projeto
+
+1 - O aplicativo tem como principio atender a demanda das familias com objetivo de facilitar no processo de gestão familiar.
+
+2 - Analisar dados e necessidades de informações para a composição do app.
+
+3 - Desenvolver o app para dispositivos móveis.
+
+4 - Determinar a linguagem de programação a ser utilizada.
+
+...
